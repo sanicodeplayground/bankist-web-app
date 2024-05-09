@@ -24,7 +24,7 @@ Password: 1111
 
 
 # Preview
-![Bank Dashboard]([https://i.ibb.co/KNy2Hry/dice.gif](https://sanicodeplayground.com/images/portfolio/bank-app.jpg))
+![Bank Dashboard](https://sanicodeplayground.com/images/portfolio/bank-app.jpg)
  
 # Tech Used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
